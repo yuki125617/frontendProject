@@ -1,0 +1,818 @@
+[
+  {
+    "Year": 98,
+    "work": "礦業及土石採取業",
+    "timeMale": 183.4,
+    "timeFemale": 176.9
+  },
+  {
+    "Year": 98,
+    "work": "製造業",
+    "timeMale": 180.3,
+    "timeFemale": 177.6
+  },
+  {
+    "Year": 98,
+    "work": "電力及燃氣供應業",
+    "timeMale": 172.9,
+    "timeFemale": 168.8
+  },
+  {
+    "Year": 98,
+    "work": "用水供應及污染整治業",
+    "timeMale": 184.5,
+    "timeFemale": 178.1
+  },
+  {
+    "Year": 98,
+    "work": "營造業",
+    "timeMale": 175.7,
+    "timeFemale": 169.9
+  },
+  {
+    "Year": 98,
+    "work": "批發及零售業",
+    "timeMale": 176.4,
+    "timeFemale": 175.4
+  },
+  {
+    "Year": 98,
+    "work": "運輸及倉儲業",
+    "timeMale": 183.6,
+    "timeFemale": 172.7
+  },
+  {
+    "Year": 98,
+    "work": "住宿及餐飲業",
+    "timeMale": 170.6,
+    "timeFemale": 169
+  },
+  {
+    "Year": 98,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 169.4,
+    "timeFemale": 168.5
+  },
+  {
+    "Year": 98,
+    "work": "金融及保險業",
+    "timeMale": 168.5,
+    "timeFemale": 167.7
+  },
+  {
+    "Year": 98,
+    "work": "不動產業",
+    "timeMale": 183.8,
+    "timeFemale": 179.7
+  },
+  {
+    "Year": 98,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 174.5,
+    "timeFemale": 173.1
+  },
+  {
+    "Year": 98,
+    "work": "支援服務業",
+    "timeMale": 196.9,
+    "timeFemale": 177.9
+  },
+  {
+    "Year": 98,
+    "work": "教育服務業",
+    "timeMale": 138.5,
+    "timeFemale": 141.9
+  },
+  {
+    "Year": 98,
+    "work": "醫療保健服務業",
+    "timeMale": 173.3,
+    "timeFemale": 173.7
+  },
+  {
+    "Year": 98,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 183.2,
+    "timeFemale": 184.9
+  },
+  {
+    "Year": 98,
+    "work": "其他服務業",
+    "timeMale": 184.6,
+    "timeFemale": 202.1
+  },
+  {
+    "Year": 99,
+    "work": "礦業及土石採取業",
+    "timeMale": 187,
+    "timeFemale": 177.2
+  },
+  {
+    "Year": 99,
+    "work": "製造業",
+    "timeMale": 190.5,
+    "timeFemale": 186.7
+  },
+  {
+    "Year": 99,
+    "work": "電力及燃氣供應業",
+    "timeMale": 173.7,
+    "timeFemale": 170.1
+  },
+  {
+    "Year": 99,
+    "work": "用水供應及污染整治業",
+    "timeMale": 184.5,
+    "timeFemale": 176.1
+  },
+  {
+    "Year": 99,
+    "work": "營造業",
+    "timeMale": 177.9,
+    "timeFemale": 172.8
+  },
+  {
+    "Year": 99,
+    "work": "批發及零售業",
+    "timeMale": 176.5,
+    "timeFemale": 176
+  },
+  {
+    "Year": 99,
+    "work": "運輸及倉儲業",
+    "timeMale": 185.1,
+    "timeFemale": 173.2
+  },
+  {
+    "Year": 99,
+    "work": "住宿及餐飲業",
+    "timeMale": 173.1,
+    "timeFemale": 170.7
+  },
+  {
+    "Year": 99,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 170.5,
+    "timeFemale": 169.4
+  },
+  {
+    "Year": 99,
+    "work": "金融及保險業",
+    "timeMale": 169.2,
+    "timeFemale": 168.6
+  },
+  {
+    "Year": 99,
+    "work": "不動產業",
+    "timeMale": 182.3,
+    "timeFemale": 178.3
+  },
+  {
+    "Year": 99,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 176.1,
+    "timeFemale": 173.6
+  },
+  {
+    "Year": 99,
+    "work": "支援服務業",
+    "timeMale": 201.9,
+    "timeFemale": 182.6
+  },
+  {
+    "Year": 99,
+    "work": "教育服務業",
+    "timeMale": 137.9,
+    "timeFemale": 139.5
+  },
+  {
+    "Year": 99,
+    "work": "醫療保健服務業",
+    "timeMale": 175,
+    "timeFemale": 175
+  },
+  {
+    "Year": 99,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 180.2,
+    "timeFemale": 181.9
+  },
+  {
+    "Year": 99,
+    "work": "其他服務業",
+    "timeMale": 186.6,
+    "timeFemale": 202
+  },
+  {
+    "Year": 100,
+    "work": "礦業及土石採取業",
+    "timeMale": 182.4,
+    "timeFemale": 177.7
+  },
+  {
+    "Year": 100,
+    "work": "製造業",
+    "timeMale": 187.2,
+    "timeFemale": 182.2
+  },
+  {
+    "Year": 100,
+    "work": "電力及燃氣供應業",
+    "timeMale": 171.1,
+    "timeFemale": 167.8
+  },
+  {
+    "Year": 100,
+    "work": "用水供應及污染整治業",
+    "timeMale": 180.1,
+    "timeFemale": 174.1
+  },
+  {
+    "Year": 100,
+    "work": "營造業",
+    "timeMale": 178.7,
+    "timeFemale": 175.5
+  },
+  {
+    "Year": 100,
+    "work": "批發及零售業",
+    "timeMale": 174.6,
+    "timeFemale": 173.5
+  },
+  {
+    "Year": 100,
+    "work": "運輸及倉儲業",
+    "timeMale": 182.6,
+    "timeFemale": 171.4
+  },
+  {
+    "Year": 100,
+    "work": "住宿及餐飲業",
+    "timeMale": 168.5,
+    "timeFemale": 169.4
+  },
+  {
+    "Year": 100,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 168.4,
+    "timeFemale": 167.6
+  },
+  {
+    "Year": 100,
+    "work": "金融及保險業",
+    "timeMale": 166.4,
+    "timeFemale": 165.6
+  },
+  {
+    "Year": 100,
+    "work": "不動產業",
+    "timeMale": 182.6,
+    "timeFemale": 176.1
+  },
+  {
+    "Year": 100,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 174.9,
+    "timeFemale": 170.6
+  },
+  {
+    "Year": 100,
+    "work": "支援服務業",
+    "timeMale": 202.8,
+    "timeFemale": 181.9
+  },
+  {
+    "Year": 100,
+    "work": "教育服務業",
+    "timeMale": 131.9,
+    "timeFemale": 136.5
+  },
+  {
+    "Year": 100,
+    "work": "醫療保健服務業",
+    "timeMale": 173.4,
+    "timeFemale": 174
+  },
+  {
+    "Year": 100,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 181.3,
+    "timeFemale": 182.8
+  },
+  {
+    "Year": 100,
+    "work": "其他服務業",
+    "timeMale": 188.8,
+    "timeFemale": 202.3
+  },
+  {
+    "Year": 101,
+    "work": "礦業及土石採取業",
+    "timeMale": 183.6,
+    "timeFemale": 179.3
+  },
+  {
+    "Year": 101,
+    "work": "製造業",
+    "timeMale": 185.6,
+    "timeFemale": 181.5
+  },
+  {
+    "Year": 101,
+    "work": "電力及燃氣供應業",
+    "timeMale": 177.6,
+    "timeFemale": 169.6
+  },
+  {
+    "Year": 101,
+    "work": "用水供應及污染整治業",
+    "timeMale": 179.7,
+    "timeFemale": 175.5
+  },
+  {
+    "Year": 101,
+    "work": "營造業",
+    "timeMale": 178.8,
+    "timeFemale": 173.2
+  },
+  {
+    "Year": 101,
+    "work": "批發及零售業",
+    "timeMale": 174.3,
+    "timeFemale": 172.3
+  },
+  {
+    "Year": 101,
+    "work": "運輸及倉儲業",
+    "timeMale": 184.9,
+    "timeFemale": 172.6
+  },
+  {
+    "Year": 101,
+    "work": "住宿及餐飲業",
+    "timeMale": 169.6,
+    "timeFemale": 172.3
+  },
+  {
+    "Year": 101,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 168.8,
+    "timeFemale": 168.4
+  },
+  {
+    "Year": 101,
+    "work": "金融及保險業",
+    "timeMale": 168.1,
+    "timeFemale": 167.1
+  },
+  {
+    "Year": 101,
+    "work": "不動產業",
+    "timeMale": 182.5,
+    "timeFemale": 178.5
+  },
+  {
+    "Year": 101,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 174.9,
+    "timeFemale": 172.2
+  },
+  {
+    "Year": 101,
+    "work": "支援服務業",
+    "timeMale": 203.6,
+    "timeFemale": 180.9
+  },
+  {
+    "Year": 101,
+    "work": "教育服務業",
+    "timeMale": 122.1,
+    "timeFemale": 136.6
+  },
+  {
+    "Year": 101,
+    "work": "醫療保健服務業",
+    "timeMale": 170.4,
+    "timeFemale": 175.8
+  },
+  {
+    "Year": 101,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 183.3,
+    "timeFemale": 182.8
+  },
+  {
+    "Year": 101,
+    "work": "其他服務業",
+    "timeMale": 191,
+    "timeFemale": 200.7
+  },
+  {
+    "Year": 102,
+    "work": "礦業及土石採取業",
+    "timeMale": 182.6,
+    "timeFemale": 177.3
+  },
+  {
+    "Year": 102,
+    "work": "製造業",
+    "timeMale": 185.5,
+    "timeFemale": 181.5
+  },
+  {
+    "Year": 102,
+    "work": "電力及燃氣供應業",
+    "timeMale": 175.8,
+    "timeFemale": 167
+  },
+  {
+    "Year": 102,
+    "work": "用水供應及污染整治業",
+    "timeMale": 180.3,
+    "timeFemale": 175
+  },
+  {
+    "Year": 102,
+    "work": "營造業",
+    "timeMale": 175.5,
+    "timeFemale": 171.3
+  },
+  {
+    "Year": 102,
+    "work": "批發及零售業",
+    "timeMale": 172.9,
+    "timeFemale": 170.3
+  },
+  {
+    "Year": 102,
+    "work": "運輸及倉儲業",
+    "timeMale": 182.6,
+    "timeFemale": 171
+  },
+  {
+    "Year": 102,
+    "work": "住宿及餐飲業",
+    "timeMale": 168.8,
+    "timeFemale": 170.6
+  },
+  {
+    "Year": 102,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 166.7,
+    "timeFemale": 166
+  },
+  {
+    "Year": 102,
+    "work": "金融及保險業",
+    "timeMale": 164.4,
+    "timeFemale": 164.7
+  },
+  {
+    "Year": 102,
+    "work": "不動產業",
+    "timeMale": 182.1,
+    "timeFemale": 177
+  },
+  {
+    "Year": 102,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 174.4,
+    "timeFemale": 169.2
+  },
+  {
+    "Year": 102,
+    "work": "支援服務業",
+    "timeMale": 200.7,
+    "timeFemale": 175.4
+  },
+  {
+    "Year": 102,
+    "work": "教育服務業",
+    "timeMale": 119.9,
+    "timeFemale": 137
+  },
+  {
+    "Year": 102,
+    "work": "醫療保健服務業",
+    "timeMale": 170.1,
+    "timeFemale": 174
+  },
+  {
+    "Year": 102,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 179,
+    "timeFemale": 182.5
+  },
+  {
+    "Year": 102,
+    "work": "其他服務業",
+    "timeMale": 190,
+    "timeFemale": 199.7
+  },
+  {
+    "Year": 103,
+    "work": "礦業及土石採取業",
+    "timeMale": 181.9,
+    "timeFemale": 176.5
+  },
+  {
+    "Year": 103,
+    "work": "製造業",
+    "timeMale": 186.1,
+    "timeFemale": 182.8
+  },
+  {
+    "Year": 103,
+    "work": "電力及燃氣供應業",
+    "timeMale": 177.2,
+    "timeFemale": 168.3
+  },
+  {
+    "Year": 103,
+    "work": "用水供應及污染整治業",
+    "timeMale": 180.7,
+    "timeFemale": 175
+  },
+  {
+    "Year": 103,
+    "work": "營造業",
+    "timeMale": 176.7,
+    "timeFemale": 172.8
+  },
+  {
+    "Year": 103,
+    "work": "批發及零售業",
+    "timeMale": 173.8,
+    "timeFemale": 172.2
+  },
+  {
+    "Year": 103,
+    "work": "運輸及倉儲業",
+    "timeMale": 182.8,
+    "timeFemale": 172.3
+  },
+  {
+    "Year": 103,
+    "work": "住宿及餐飲業",
+    "timeMale": 169.5,
+    "timeFemale": 168.9
+  },
+  {
+    "Year": 103,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 166.9,
+    "timeFemale": 165.4
+  },
+  {
+    "Year": 103,
+    "work": "金融及保險業",
+    "timeMale": 165.9,
+    "timeFemale": 165.5
+  },
+  {
+    "Year": 103,
+    "work": "不動產業",
+    "timeMale": 182,
+    "timeFemale": 177.5
+  },
+  {
+    "Year": 103,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 176.2,
+    "timeFemale": 170.9
+  },
+  {
+    "Year": 103,
+    "work": "支援服務業",
+    "timeMale": 201.8,
+    "timeFemale": 176.2
+  },
+  {
+    "Year": 103,
+    "work": "教育服務業",
+    "timeMale": 124.5,
+    "timeFemale": 139
+  },
+  {
+    "Year": 103,
+    "work": "醫療保健服務業",
+    "timeMale": 172.1,
+    "timeFemale": 172.9
+  },
+  {
+    "Year": 103,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 178.6,
+    "timeFemale": 178.6
+  },
+  {
+    "Year": 103,
+    "work": "其他服務業",
+    "timeMale": 188.4,
+    "timeFemale": 196.6
+  },
+  {
+    "Year": 104,
+    "work": "礦業及土石採取業",
+    "timeMale": 178.6,
+    "timeFemale": 175.5
+  },
+  {
+    "Year": 104,
+    "work": "製造業",
+    "timeMale": 183.4,
+    "timeFemale": 179.6
+  },
+  {
+    "Year": 104,
+    "work": "電力及燃氣供應業",
+    "timeMale": 176.2,
+    "timeFemale": 166.8
+  },
+  {
+    "Year": 104,
+    "work": "用水供應及污染整治業",
+    "timeMale": 177.1,
+    "timeFemale": 170.3
+  },
+  {
+    "Year": 104,
+    "work": "營造業",
+    "timeMale": 172.8,
+    "timeFemale": 168.9
+  },
+  {
+    "Year": 104,
+    "work": "批發及零售業",
+    "timeMale": 171.6,
+    "timeFemale": 170.2
+  },
+  {
+    "Year": 104,
+    "work": "運輸及倉儲業",
+    "timeMale": 181.3,
+    "timeFemale": 171.1
+  },
+  {
+    "Year": 104,
+    "work": "住宿及餐飲業",
+    "timeMale": 168.6,
+    "timeFemale": 166.1
+  },
+  {
+    "Year": 104,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 166,
+    "timeFemale": 164.2
+  },
+  {
+    "Year": 104,
+    "work": "金融及保險業",
+    "timeMale": 162.4,
+    "timeFemale": 162.4
+  },
+  {
+    "Year": 104,
+    "work": "不動產業",
+    "timeMale": 178.6,
+    "timeFemale": 175.8
+  },
+  {
+    "Year": 104,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 172.3,
+    "timeFemale": 168.6
+  },
+  {
+    "Year": 104,
+    "work": "支援服務業",
+    "timeMale": 198.6,
+    "timeFemale": 174.4
+  },
+  {
+    "Year": 104,
+    "work": "教育服務業",
+    "timeMale": 124.1,
+    "timeFemale": 136.8
+  },
+  {
+    "Year": 104,
+    "work": "醫療保健服務業",
+    "timeMale": 171.1,
+    "timeFemale": 172.5
+  },
+  {
+    "Year": 104,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 178.7,
+    "timeFemale": 176.6
+  },
+  {
+    "Year": 104,
+    "work": "其他服務業",
+    "timeMale": 185,
+    "timeFemale": 192.7
+  },
+  {
+    "Year": 105,
+    "work": "礦業及土石採取業",
+    "timeMale": 173.7,
+    "timeFemale": 169.7
+  },
+  {
+    "Year": 105,
+    "work": "製造業",
+    "timeMale": 176.6,
+    "timeFemale": 172.8
+  },
+  {
+    "Year": 105,
+    "work": "電力及燃氣供應業",
+    "timeMale": 173.5,
+    "timeFemale": 163.5
+  },
+  {
+    "Year": 105,
+    "work": "用水供應及污染整治業",
+    "timeMale": 170.7,
+    "timeFemale": 161.7
+  },
+  {
+    "Year": 105,
+    "work": "營造業",
+    "timeMale": 166.5,
+    "timeFemale": 165.4
+  },
+  {
+    "Year": 105,
+    "work": "批發及零售業",
+    "timeMale": 165.5,
+    "timeFemale": 163.6
+  },
+  {
+    "Year": 105,
+    "work": "運輸及倉儲業",
+    "timeMale": 175.3,
+    "timeFemale": 166.4
+  },
+  {
+    "Year": 105,
+    "work": "住宿及餐飲業",
+    "timeMale": 164.9,
+    "timeFemale": 162.5
+  },
+  {
+    "Year": 105,
+    "work": "資訊及通訊傳播業",
+    "timeMale": 161.7,
+    "timeFemale": 160.5
+  },
+  {
+    "Year": 105,
+    "work": "金融及保險業",
+    "timeMale": 163.2,
+    "timeFemale": 162.6
+  },
+  {
+    "Year": 105,
+    "work": "不動產業",
+    "timeMale": 170,
+    "timeFemale": 167.2
+  },
+  {
+    "Year": 105,
+    "work": "專業、科學及技術服務業",
+    "timeMale": 167.1,
+    "timeFemale": 163.6
+  },
+  {
+    "Year": 105,
+    "work": "支援服務業",
+    "timeMale": 194.3,
+    "timeFemale": 168.7
+  },
+  {
+    "Year": 105,
+    "work": "教育服務業",
+    "timeMale": 126.4,
+    "timeFemale": 135.6
+  },
+  {
+    "Year": 105,
+    "work": "醫療保健服務業",
+    "timeMale": 162.7,
+    "timeFemale": 167.1
+  },
+  {
+    "Year": 105,
+    "work": "藝術、娛樂及休閒服務業",
+    "timeMale": 171.8,
+    "timeFemale": 167.4
+  },
+  {
+    "Year": 105,
+    "work": "其他服務業",
+    "timeMale": 178.3,
+    "timeFemale": 186.4
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "work": "金融及保險業",
+    "salaryMale": 93015,
+    "salaryFemale": 79552
+  },
+  {
+    "work": "電力及燃氣供應業",
+    "salaryMale": 99346,
+    "salaryFemale": 78969
+  },
+  {
+    "work": "醫療保健服務業",
+    "salaryMale": 99187,
+    "salaryFemale": 55631
+  },
+  {
+    "work": "資訊及通訊傳播業",
+    "salaryMale": 72677,
+    "salaryFemale": 59576
+  },
+  {
+    "work": "專業、科學及技術服務業",
+    "salaryMale": 63364,
+    "salaryFemale": 52489
+  },
+  {
+    "work": "運輸及倉儲業",
+    "salaryMale": 53841,
+    "salaryFemale": 45660
+  },
+  {
+    "work": "礦業及土石採取業",
+    "salaryMale": 56391,
+    "salaryFemale": 42176
+  },
+  {
+    "work": "批發及零售業",
+    "salaryMale": 48437,
+    "salaryFemale": 42845
+  },
+  {
+    "work": "用水供應及污染整治業",
+    "salaryMale": 44385,
+    "salaryFemale": 43515
+  },
+  {
+    "work": "製造業",
+    "salaryMale": 52853,
+    "salaryFemale": 37892
+  },
+  {
+    "work": "不動產業",
+    "salaryMale": 42268,
+    "salaryFemale": 42433
+  },
+  {
+    "work": "營造業",
+    "salaryMale": 45323,
+    "salaryFemale": 33104
+  },
+  {
+    "work": "住宿服務業",
+    "salaryMale": 41353,
+    "salaryFemale": 32215
+  },
+  {
+    "work": "藝術、娛樂及休閒服務業",
+    "salaryMale": 43613,
+    "salaryFemale": 28366
+  },
+  {
+    "work": "教育服務業",
+    "salaryMale": 27045,
+    "salaryFemale": 23060
+  },
+  {
+    "work": "支援服務業",
+    "salaryMale": 35731,
+    "salaryFemale": 35610
+  },
+  {
+    "work": "其他服務業",
+    "salaryMale": 39607,
+    "salaryFemale": 30833
+  }
+]
